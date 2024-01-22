@@ -1,0 +1,102 @@
+<mxfile host="Electron" modified="2024-01-16T12:47:47.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="QoGyux58ZjuDl8Gr--Bb" version="22.1.18" type="device">
+  <diagram name="第 1 页" id="QZDeBkVmWwlwH1OktrhE">
+    <mxGraphModel dx="1877" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-1" value="http://localhost:8080" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-3" value="客户端浏览器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-4" value="&amp;nbsp;webpack-dev-server" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="310" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-5" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="210" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-6" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-7" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-8" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="195" width="470" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-23" value="http://localhost:8081" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-24" value="spring boot" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="290" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-25" value="jdk8" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-26" value="接收请求，调用service接口，返回响应数据给前端" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="240" width="210" height="45" as="geometry" />
+        </mxCell>
+        <UserObject label="controller" placeholders="1" name="Variable" id="PDnxxqKtehDlkWqxKWEu-29">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-360" y="250" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-30" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-31" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-33" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-249.5" y="290" width="29" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-34" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-35" value="进行业务逻辑处理，调用mapper，获取数据" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="320" width="210" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="service" placeholders="1" name="Variable" id="PDnxxqKtehDlkWqxKWEu-36">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-360" y="325" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-37" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-251" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-39" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-40" value="对数据库进行操作，提交数据给service" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="380" width="250" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="mapper" placeholders="1" name="Variable" id="PDnxxqKtehDlkWqxKWEu-41">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-360" y="390" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-42" value="数据库连接池" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="450" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-43" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="420" width="9" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="JDBC驱动" placeholders="1" name="Variable" id="PDnxxqKtehDlkWqxKWEu-45">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry y="460" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-46" value="MySQL" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-47" value="Redis" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnxxqKtehDlkWqxKWEu-48" value="win11服务器" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
